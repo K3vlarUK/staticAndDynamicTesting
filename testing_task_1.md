@@ -6,8 +6,6 @@
 
 class CardGame
 
-  # No initialize method?
-
   def checkforAce(card)
     if card.value = 1
       # Missing a second = sign.
